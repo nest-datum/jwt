@@ -1,6 +1,6 @@
 {
   "name": "@nest-datum/jwt",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Set of functions for generating and decrypting tokens",
   "author": "ihor-bielchenko",
   "license": "ISC",
